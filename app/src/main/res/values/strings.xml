@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EnglishToMetric</string>
+    <string name="txtTitle1">Convert English to Metric</string>
+    <string name="btnConvert">Convert</string>
+    <string name="txtEntry">Enter Number</string>
+    <string name="txtAnswer">Answer is:</string>
+    <string name="txtConvertEnter">Enter Conversion</string>
+    <string-array name="txtConvertList">
+        <item>inches to centimeters</item>
+        <item>feet to meters</item>
+        <item>miles-per-hour to kilometers-per-hour</item>
+        <item>floz to ml</item>
+    </string-array>
+</resources>
